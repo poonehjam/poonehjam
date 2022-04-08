@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @poonehjam
-- 👀 I’m interested in .the security system..
-- 🌱 I’m currently learning .informatic..
-- 💞️ I’m looking to collaborate on .design..
-- 📫 How to reach me ..poonehjam@yahoo.com
+- 👋 Hi, I’m pooneh Jam.
+- 👀 I’m interested in the security system.
+- 🌱 I’m currently learning informatic.
+- 💞️ I’m looking to collaborate on design.
+- 📫 How to reach me poonehjam@yahoo.com
 
 <!---
 poonehjam/poonehjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
